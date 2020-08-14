@@ -1,2 +1,4 @@
 # http://responsive.github.io
-personal website
+
+
+Project Website showcasing responsiveness in different devices using CSS grid.
