@@ -58,12 +58,14 @@ h1,h2,h3,h4{
     color:#DDDBFF;
     font-weight: normal;
     line-height: 1.4em;
+    font-family: 'Rubik', sans-serif;
 }
 
 p,a,li{
     color:#9893D8;
     line-height: 1.4em;
     font-size: 1em;
+    font-family: 'Rubik', sans-serif;
 }
 
 h1,h3{
