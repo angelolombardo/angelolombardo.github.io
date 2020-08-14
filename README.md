@@ -1,2 +1,2 @@
-# http://angelolombardo.github.io
+# http://responsive.github.io
 personal website
