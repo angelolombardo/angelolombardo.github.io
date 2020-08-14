@@ -25,7 +25,7 @@ body{
     background: var(--secondary);
     overflow-x: hidden;
     /* we use overflow so that the user wont be able to scroll and see the full img */
-    font-family: 'Rubik Regular', serif;
+    font-family: 'Rubik', sans-serif;
 }
 .button{
     background: none;
